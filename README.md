@@ -1,2 +1,2 @@
-# Elevate-LAbs-Internship
+# Elevate-Labs-Internship
 Here is all my course work related to my Internship at Elevate Labs
